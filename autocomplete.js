@@ -1,0 +1,3 @@
+var input = document.getElementById("myinput");new Awesomplete(input, {
+    
+list: ["Backstabbing for Beginners (2018)","Pacific Rim: Uprising (2018)", "Rampage (2018) hdcam","Peter Rabbit (2018)","Red Sparrow (2018) hd cam","You Were Never Really Here (2017)","Hostiles (2017)","Den of Thieves (2018)","Maze Runner: The Death Cure (2018)","Fifty Shades Freed (2018)","The Hurricane Heist (2018)","12 Strong (2018)","Molly's Game (2017)","The Commuter (2018)","7 Guardians of the Tomb (2018)","Paddington 2 (2017)","All the Money in the World (2017)","I Kill Giants (2017)",]});
